@@ -28,15 +28,15 @@
 
 *** Requirements
 
-    - [ ] Theme paragraphs with CSS
-    - [ ] Theme header tags with CSS
-    - [ ] Theme images and images captions with CSS
-    - [ ] Change the colour scheme to something aesthetically pleasing
-    - [ ] Apply 1 CSS file to 3 gutenberg documents.
-    - [ ] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
-    - [ ] document in your README what modifications you had to make
+    - [x] Theme paragraphs with CSS
+    - [x] Theme header tags with CSS
+    - [x] Theme images and images captions with CSS
+    - [x] Change the colour scheme to something aesthetically pleasing  
+    - [x] Apply 1 CSS file to 3 gutenberg documents.
+    - [x] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
+    - [x] document in your README what modifications you had to make
       to the project gutenberg HTML files.
-    - [ ] Take 3 screenshots of firefox running all of your pages that
+    - [x] Take 3 screenshots of firefox running all of your pages that
       demonstrates your theme.
 
 ** Part II 
@@ -47,7 +47,7 @@
    Emulate the 2nd and 3rd design from this comic: 
    http://theoatmeal.com/comics/design_hell
 
-   Make 1 good page that you could show an employer. Make 1 bad papge that you would show your friends because it is funny.
+   Make 1 good page that you could show an employer. Make 1 bad page that you would show your friends because it is funny.
 
    Include at least 3 sections:
 
@@ -67,22 +67,22 @@
 
 *** Requirements
 
-    - [ ] 4 sections: who you are, your history, what you have to
+    - [x] 4 sections: who you are, your history, what you have to
       offer, important points about you
-    - [ ] 1 Ugly CSS theme
-    - [ ] 1 good CSS theme
-    - [ ] Ugly theme has to be noticeabley different.
-    - [ ] 2 HTML files, each with the same content but different CSS
-    - [ ] your photo (try to keep it professional)
-    - [ ] Take 2 screenshots of firefox running all of your pages that
+    - [x] 1 Ugly CSS theme
+    - [x] 1 good CSS theme
+    - [x] Ugly theme has to be noticeabley different.
+    - [x] 2 HTML files, each with the same content but different CSS
+    - [x] your photo (try to keep it professional)
+    - [x] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
-    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
-    - [ ] homepage/good.html should host your good page
-    - [ ] homepage/ugly.html should host your ugly page
-    - [ ] gutenberg/1.html should host your first gutenberg book
-    - [ ] gutenberg/2.html should host your second gutenberg book
-    - [ ] gutenberg/3.html should host your third gutenberg book
-    - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
+    - [x] Ensure that files are appropriately named and CASE SENSITIVE.
+    - [x] homepage/good.html should host your good page
+    - [x] homepage/ugly.html should host your ugly page
+    - [x] gutenberg/1.html should host your first gutenberg book
+    - [x] gutenberg/2.html should host your second gutenberg book
+    - [x] gutenberg/3.html should host your third gutenberg book
+    - [x] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
 
 ** Restrictions
    - [ ] You may use Python
