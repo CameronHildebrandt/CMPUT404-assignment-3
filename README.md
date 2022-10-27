@@ -21,7 +21,7 @@ To style the images, I added a style to se their height to 50vh so that they don
 
 For the images that had captions, I noticed that they all were tagged with the 'caption' class, so I added a nice orange colour to all of those using .caption {}.
 
-I also made all of the images black and white using the greyscale filter.
+I also made all of the images black and white using the grayscale filter.
 
 License/Copyright
 =================
